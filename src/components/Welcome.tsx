@@ -7,8 +7,8 @@ export const Welcome: React.FC = () => (
   suplementación.
 </p>
     <p>
-      <a className="underline" href="https://github.com/ascorbic/daneel#readme">
-        Build your own
+      <a className="underline" href="">
+        
       </a>
     </p>
   </div>
