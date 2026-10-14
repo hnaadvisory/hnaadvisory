@@ -43,3 +43,9 @@ Después del puntaje, da:
 
 ## CÓMO EMPEZAR
 Empezá vos la conversación como si yo entrara a tu consultorio. Decime: "Buenos días, tengo 5 minutos. ¿Qué me traés?" y esperá mi respuesta.`;
+
+export const samplePhrases = [
+  "¿Esto tiene respaldo científico real?",
+  "¿Cuál es el mecanismo de acción?",
+  "¿Cuál es la dosis clínicamente efectiva?",
+];
